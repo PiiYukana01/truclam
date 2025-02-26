@@ -1,1 +1,154 @@
-# truclam
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Những Sự Kiện Chấn Động Lịch Sử</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 36px;
+        }
+
+        header p {
+            font-size: 18px;
+            margin-top: 10px;
+        }
+
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 30px;
+        }
+
+        .content {
+            margin-top: 20px;
+            line-height: 1.8;
+            font-size: 18px;
+            color: #333;
+        }
+
+        .content h2 {
+            color: #333;
+            font-size: 28px;
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+        }
+
+        .content p {
+            font-size: 16px;
+            margin-bottom: 15px;
+        }
+
+        .content img {
+            width: 100%;
+            height: auto;
+            margin-top: 20px;
+            border-radius: 10px;
+        }
+
+        .event {
+            background-color: #fff;
+            margin-bottom: 30px;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .event h3 {
+            color: #e74c3c;
+            font-size: 24px;
+        }
+
+        .event p {
+            font-size: 16px;
+            color: #555;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Những Sự Kiện Chấn Động Lịch Sử</h1>
+        <p>Khám phá những sự kiện thay đổi thế giới và định hình lịch sử nhân loại.</p>
+    </header>
+
+    <!-- Container -->
+    <div class="container">
+        <!-- Event 1: World War II -->
+        <div class="event">
+            <h3>Chiến Tranh Thế Giới Thứ Hai (1939-1945)</h3>
+            <p>Chiến tranh thế giới thứ hai là một trong những cuộc xung đột tàn khốc nhất trong lịch sử nhân loại, kéo dài từ năm 1939 đến 1945. Cuộc chiến này không chỉ thay đổi toàn bộ thế giới về mặt chính trị, quân sự mà còn có tác động sâu sắc đến nền văn hóa và xã hội.</p>
+            <img src="https://danviet.mediacdn.vn/thumb_w/650/296231569849192448/2022/8/13/506-16604097993631508630494.png" alt="World War II">
+            <img src="https://photo.znews.vn/w660/Uploaded/mdf_nsozxd/2019_07_04/3_1.jpg" alt="World War II">
+
+        <!-- Event 2: Moon Landing -->
+        <div class="event">
+            <h3>Con Người Đặt Chân Lên Mặt Trăng (1969)</h3>
+            <p>Ngày 20 tháng 7 năm 1969, Neil Armstrong trở thành người đầu tiên đặt chân lên Mặt Trăng trong khuôn khổ chương trình Apollo 11 của NASA. Đây là một sự kiện lịch sử mang tính cách mạng, đánh dấu một cột mốc quan trọng trong cuộc đua không gian giữa Mỹ và Liên Xô.</p>
+            <img src="https://lh4.googleusercontent.com/proxy/qdeLGk28m4K14uA-zDS97J_Gg6z8M0Of8WNlJOpKIAvJW022Kd2tP1Yoy6QMIp8w4hW9YgC8D4g-t9O_kIb9uS8MA5WkoCOmjV7O-uw" alt="Moon Landing">
+            <img src="https://static.tuoitre.vn/tto/i/s626/2015/10/28/moon-1446010009.jpg" alt="Moon Landing">
+        </div>
+
+        <!-- Event 3: The Fall of the Berlin Wall -->
+        <div class="event">
+            <h3>Vỡ Đê Tường Berlin (1989)</h3>
+            <p>Vào ngày 9 tháng 11 năm 1989, bức tường Berlin, biểu tượng của sự phân chia giữa Đông và Tây Đức, đã bị phá bỏ. Đây là dấu mốc quan trọng trong cuộc Chiến tranh Lạnh, đồng thời mở đường cho sự thống nhất của Đức và kết thúc sự chia cắt giữa Đông và Tây Âu.</p>
+            <img src="https://nghiencuuquocte.org/wp-content/uploads/2016/03/berlinwall.jpg" alt="Berlin Wall Fall">
+            <img src="https://media.baoquangninh.vn/dataimages/201911/original/images1340365_a.jpg" alt="Berlin Wall Fall">
+        </div>
+
+        <!-- Event 4: The September 11 Attacks -->
+        <div class="event">
+            <h3>Sự Kiện 11/9 (2001)</h3>
+            <p>Vào ngày 11 tháng 9 năm 2001, Mỹ đã chứng kiến một loạt các vụ tấn công khủng bố do Al-Qaeda thực hiện. Các máy bay đã được cướp và đâm vào Tòa tháp đôi ở New York và Lầu Năm Góc, gây ra hàng nghìn cái chết và làm thay đổi chính sách an ninh toàn cầu.</p>
+            <img src="https://media.vov.vn/sites/default/files/styles/large/public/2021-09/2_photos-of-the-terrorist-attacks-september-11-2001_chicagotribune.comop_.jpg" alt="September 11 Attacks">
+            <img src="https://nld.mediacdn.vn/291774122806476800/2021/9/10/photo-1-163126364136498247699.jpg" alt="September 11 Attacks">
+
+   <h1>Đây là video về chiến tranh thế giới thứ hai</h1>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G4b94C0r1jY?si=QYZNgbBzpJByRSva" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
+        <div class="text">
+            <h2>Bình luận</h2>
+            <form action="login.php"method="POST">
+                EMAIL:<input type="text" name="txtEMAIL">
+            </form>
+
+            <form action="login.php"method="POST">
+                BÌNH LUẬN:<textarea name="comments"rows="5"cols="60"></textarea>
+            </form>
+            <form action="login.php" method="POST"> 
+            <input type="submit" name="cmd"value="Gửi">
+            </form>
+            
+        </div>
+</body>
+</html>
